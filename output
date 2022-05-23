@@ -1,0 +1,9 @@
+hi
+there
+total 16
+drwxr-xr-x   6 martinpro  staff  192 May 23 12:40 .
+drwxr-xr-x@  7 martinpro  staff  224 May 23 12:38 ..
+drwxr-xr-x  14 martinpro  staff  448 May 23 12:16 .git
+-rw-r--r--   1 martinpro  staff   10 May 23 12:35 README.md
+-rw-r--r--   1 martinpro  staff    0 May 23 12:37 filename.c
+-rw-r--r--   1 martinpro  staff    9 May 23 12:40 output
