@@ -18,5 +18,30 @@ int main()
     int b = -a;
     printf("a = %d\n",a);
     printf("b = %d\n",b);
+
+    printf("\nPost increment\n");
+    a = 5;
+    b = 5;
+    b = a++;
+    printf("a = %d\n",a);
+    printf("b = %d\n",b);
+
+    printf("\nPre increment\n");
+    a = 5;
+    b = 5;
+    b = ++a;
+    printf("a = %d\n",a);
+    printf("b = %d\n",b);
+
+    printf("\nAssignment operators:\n");
+    a = 5;
+    b = 5;
+    b += a;
+    printf("b += a = %d\n",b);
+    a *= 30;
+    printf("b += a = %d\n",a);
+    a %= 140;
+    printf("a %%= 140 = %d\n",a);
+
     return 0;
 }
